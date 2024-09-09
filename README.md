@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @D4rkSi3er
 - 👀 I’m interested in- Computer ofc :>
-- 🌱 I’m currently learning- CEH and Pen Testing
-- 💞️ I’m looking to collaborate on- Web pen testing
+- 🌱 I’m currently learning- 
+- 💞️ I’m looking to collaborate on- 
 - 📫 How to reach- me Dm on Discord d4rksi3er
 
 <!---
